@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616806114 source:c:\users\ma\desktop\c++\primedescomp\solution.cpp
+	"Solution.h"
+	<string>
+	<map>
+
+1616793415 c:\users\ma\desktop\c++\primedescomp\solution.h
+	<string>
+
+1616805922 source:c:\users\ma\desktop\c++\primedescomp\main.cpp
+	<iostream>
+	<string>
+	<map>
+	"Solution.h"
+

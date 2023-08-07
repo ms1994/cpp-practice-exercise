@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651114225 source:c:\users\ma\desktop\c++\nashmatrix dfsmath\main.cpp
+	<bits/stdc++.h>
+	<chrono>
+

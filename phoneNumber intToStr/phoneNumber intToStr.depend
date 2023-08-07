@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616782052 source:c:\users\ma\desktop\c++\phonenumber inttostr\solution.cpp
+	"Solution.h"
+	<string>
+	<sstream>
+
+1616779742 c:\users\ma\desktop\c++\phonenumber inttostr\solution.h
+	<string>
+
+1616782100 source:c:\users\ma\desktop\c++\phonenumber inttostr\main.cpp
+	<iostream>
+	<string>
+	"Solution.h"
+	<sstream>
+
