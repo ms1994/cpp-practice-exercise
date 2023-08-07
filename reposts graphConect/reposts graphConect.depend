@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618291474 source:c:\users\ma\desktop\c++\reposts graphconect\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

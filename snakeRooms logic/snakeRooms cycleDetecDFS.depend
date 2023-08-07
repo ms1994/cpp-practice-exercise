@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619658513 source:c:\users\ma\desktop\c++\snakerooms cycledetecdfs\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
