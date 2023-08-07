@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616420318 source:c:\users\ma\desktop\c++\countingduplicates\main.cpp
+	<iostream>
+	<ctype.h>
+	<bits/stdc++.h>
+	<string>
+

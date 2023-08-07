@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617072475 source:c:\users\ma\desktop\c++\gapofprimes\main.cpp
+	<iostream>
+	"Solution.h"
+	<math.h>
+	<utility>
+
+1617071554 c:\users\ma\desktop\c++\gapofprimes\solution.h
+	<utility>
+
+1617070868 source:c:\users\ma\desktop\c++\gapofprimes\solution.cpp
+	"Solution.h"
+	<math.h>
+	<utility>
+
