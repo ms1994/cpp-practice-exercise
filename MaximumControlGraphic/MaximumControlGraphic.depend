@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617637244 source:c:\users\ma\desktop\c++\maximumcontrolgraphic\main.cpp
+	"Solution.h"
+	<bits/stdc++.h>
+
+1617635866 c:\users\ma\desktop\c++\maximumcontrolgraphic\solution.h
+
+1617637397 source:c:\users\ma\desktop\c++\maximumcontrolgraphic\solution.cpp
+	"Solution.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1617388299 source:c:\users\ma\desktop\c++\interpreter\main.cpp
+	<iostream>
+	<string>
+	"Nodes.h"
+
+1617327740 c:\users\ma\desktop\c++\interpreter\nodes.h
+	<iostream>
+	<string>
+
+1617388233 source:c:\users\ma\desktop\c++\interpreter\nodes.cpp
+	"Nodes.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1617388299 source:c:\users\ma\desktop\c++\interpreter (brainfuck linklist)\main.cpp
+	<iostream>
+	<string>
+	"Nodes.h"
+
+1617327740 c:\users\ma\desktop\c++\interpreter (brainfuck linklist)\nodes.h
+	<iostream>
+	<string>
+
+1617388233 source:c:\users\ma\desktop\c++\interpreter (brainfuck linklist)\nodes.cpp
+	"Nodes.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618006870 source:c:\users\ma\desktop\c++\kingtask\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
