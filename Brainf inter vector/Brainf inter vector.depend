@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1617387683 source:c:\users\ma\desktop\c++\brainf inter vector\solution.cpp
+	"Solution.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1617379842 c:\users\ma\desktop\c++\brainf inter vector\solution.h
+	<string>
+
+1617380255 source:c:\users\ma\desktop\c++\brainf inter vector\main.cpp
+	"Solution.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
